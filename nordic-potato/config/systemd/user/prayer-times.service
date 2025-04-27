@@ -1,0 +1,9 @@
+[Unit]
+Description=Sync prayer times calendar and add at jobs 
+
+[Service]
+Type=simple
+ExecStart=%h/.local/bin/prayer-times sync
+
+[Install]
+WantedBy=default.target

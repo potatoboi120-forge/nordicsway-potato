@@ -1,0 +1,18 @@
+return {
+  {
+    "github/copilot.vim",
+    event = "InsertEnter",
+    config = function()
+      vim.g.copilot_filetypes = {
+        ["*"] = false,  -- Disable by default
+        javascript = true,
+        typescript = true,
+        html = true,
+        css = true,
+        pyright = true,
+        lua_ls = true,
+        rust = true ,
+        }
+    end
+  }
+}

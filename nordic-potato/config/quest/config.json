@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "foreground": "White",
+    "background": "Black",
+    "selection_fg": "Black",
+    "selection_bg": "Yellow",
+    "check_sign": "Green"
+  },
+  "keybindings": {
+    "exit_app": {
+      "Char": "q"
+    },
+    "new_quest": {
+      "Char": "n"
+    },
+    "check_and_uncheck_quest": "Enter",
+    "list_up": "Up",
+    "list_down": "Down",
+    "delete_quest": "Delete",
+    "exit_adding": "Esc",
+    "save_quest": "Enter"
+  }
+}
