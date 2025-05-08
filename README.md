@@ -43,6 +43,8 @@ respective locations in your home directory:
 | wallpaper | waypaper,swaybg | 
 | notifcation | swaync | 
 | reading | librum |
+|notes |soon |
+|---|---|
 theres more but i feel tierd
 
 theres more
